@@ -8,4 +8,6 @@ install sequelize library for postgresql
 
 run migrations in command line/terminal with "sequelize db:migrate"
 
-With the above instructions DataBase and tables will create.
+With the above instructions DataBase and tables will be created. 
+
+Now create your account and continue from client side.
